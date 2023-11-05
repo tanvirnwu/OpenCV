@@ -1,5 +1,4 @@
-## Open CV Codes
-#### Codes for OpenCV:
+### Codes for OpenCV:
 - [Image Reading](https://github.com/tanvirnwu/OpenCV/blob/master/Codes/ImageRead.py)
 - [Video Reading](https://github.com/tanvirnwu/OpenCV/blob/master/Codes/VideoRead.py)
 - [Rescale Frame](https://github.com/tanvirnwu/OpenCV/blob/master/Codes/RescaleFrame.py)
