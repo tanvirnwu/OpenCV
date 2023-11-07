@@ -20,5 +20,4 @@ These are some topics of OpenCV that I learn from a publicly available [tutorial
 #### My Contributions:
 I tried to add comments to the terms and lines of codes that I thought would be helpful for me in future. I also tried to add some extra lines of codes to the tutorial codes to make it more understandable. I also added some extra codes that I thought would be helpful for me in future.
 
-Thank you for visiting my repository. If you have any suggestions or questions, please feel free to contact me at tanvirislamnwu@gmail.com.
-
+Thank you for visiting my repository.
